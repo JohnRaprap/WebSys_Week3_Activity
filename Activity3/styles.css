@@ -1,0 +1,22 @@
+body {
+    margin: 50px;
+    padding: 50px;
+    height: 100%;
+  }
+  
+  .red {
+    
+    top: 0;
+    right: 0;
+    width: 250%;
+    height: 250%;
+  }
+  
+  .red img {
+    position: absolute;
+    top: 50px;
+    padding: 80px;
+    right: 0;
+    margin: 0;
+  }
+  
